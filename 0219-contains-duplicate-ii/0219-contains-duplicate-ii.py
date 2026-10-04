@@ -10,5 +10,6 @@ class Solution:
 
         return False #if no satisfaction, return false 
 
-#TC: O(n); only loops through nums once
-#SC: O(n) for the dictionary
+# TC: O(n) — we scan through nums once, and each dictionary lookup/update is O(1) on average
+
+# SC: O(n) — in the worst case, the dictionary stores one entry for every distinct number in nums
