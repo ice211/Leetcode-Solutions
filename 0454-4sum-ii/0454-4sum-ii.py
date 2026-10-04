@@ -14,6 +14,6 @@ class Solution:
                 needed = - (third + fourth) #this will tell us what we need for the total to be 0
                 
                 if needed in hMap:
-                    count += hMap[needed]
+                    count += hMap[needed] #add the value as it gives the total number of combination for the 'needed' number
 
         return count
