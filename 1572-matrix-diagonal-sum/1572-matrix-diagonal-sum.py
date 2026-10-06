@@ -13,4 +13,6 @@ class Solution:
             final = final - center
         
         return final
-            
+    
+#TC: O(n) one pass through the n rows; you grab two diagonal cells per iteration, which is constant work.
+#SC: O(1) only a few variables; nothing grows with the matrix.
