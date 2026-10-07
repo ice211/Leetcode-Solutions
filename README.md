@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/ice211/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0219-contains-duplicate-ii](https://github.com/ice211/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/ice211/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/ice211/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/ice211/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0219-contains-duplicate-ii](https://github.com/ice211/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/ice211/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/ice211/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/ice211/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0766-toeplitz-matrix](https://github.com/ice211/Leetcode-Solutions/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/ice211/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/ice211/Leetcode-Solutions/tree/master/1572-matrix-diagonal-sum) |
