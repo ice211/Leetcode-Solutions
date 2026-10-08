@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/ice211/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
+| [0128-longest-consecutive-sequence](https://github.com/ice211/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/ice211/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/ice211/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/ice211/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/ice211/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
+| [0128-longest-consecutive-sequence](https://github.com/ice211/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/ice211/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/ice211/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/ice211/Leetcode-Solutions/tree/master/0242-valid-anagram) |
@@ -56,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/ice211/Leetcode-Solutions/tree/master/0383-ransom-note) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ice211/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
