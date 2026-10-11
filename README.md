@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/ice211/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/ice211/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/ice211/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/ice211/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ice211/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ice211/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0766-toeplitz-matrix](https://github.com/ice211/Leetcode-Solutions/tree/master/0766-toeplitz-matrix) |
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ice211/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/ice211/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
