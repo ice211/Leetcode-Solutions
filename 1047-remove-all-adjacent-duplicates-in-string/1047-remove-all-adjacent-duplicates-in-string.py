@@ -8,3 +8,5 @@ class Solution:
             else:
                 stack.append(each)
         return "".join(stack)
+# TC: O(n) only one independent for loop which loops for n times and .join is O(n) too
+# SC : O(n) one stack that increases with n
