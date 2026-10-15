@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ice211/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/ice211/Leetcode-Solutions/tree/master/0071-simplify-path) |
 | [0205-isomorphic-strings](https://github.com/ice211/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ice211/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/ice211/Leetcode-Solutions/tree/master/0383-ransom-note) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ice211/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ice211/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/ice211/Leetcode-Solutions/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ice211/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ice211/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/ice211/Leetcode-Solutions/tree/master/0682-baseball-game) |
