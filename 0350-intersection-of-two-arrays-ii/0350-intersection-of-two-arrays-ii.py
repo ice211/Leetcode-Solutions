@@ -11,6 +11,5 @@ class Solution:
                 dicti[nums2[i]] -= 1
 
         return result
-
-
-            
+# TC : O(n) individual for loops that increase with the size of nums1 and nums2
+# SC : O(n) the size of dictionary grows with inpuut
