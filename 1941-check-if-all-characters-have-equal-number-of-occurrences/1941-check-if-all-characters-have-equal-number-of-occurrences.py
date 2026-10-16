@@ -1,16 +1,16 @@
 class Solution:
     def areOccurrencesEqual(self, s: str) -> bool:
-        
         hMap = {}
-
-        for char in s: 
-            hMap[char] = hMap.get(char, 0)+1 
         
-        counter = set(hMap.values())
-    
-        if len(counter)>1:
-            return False
+        for each in s:
+            hMap[each] = hMap.get(each, 0)+1
 
-        return True
-# TC: O(n) one independent loop
-# SC: Because s only contains lowercase English letters, so  dictionary can have at most 26 keys
+        result = set(hMap.values()) # .values() gives the values of the keys in the dictionary
+
+        if len(result) > 1: # as set stores only unique value, it's length more than one mean the character frequency is different
+            return False
+        else:
+            return True
+
+# TC : O(n) one for loop for dictionary filling
+# SC : O(1) the dictionary can store at most 26 lowercase alphabets
