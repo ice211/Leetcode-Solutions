@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ice211/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ice211/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ice211/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/ice211/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/ice211/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ice211/Leetcode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0682-baseball-game](https://github.com/ice211/Leetcode-Solutions/tree/master/0682-baseball-game) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/ice211/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ice211/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ice211/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/ice211/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/ice211/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ice211/Leetcode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ice211/Leetcode-Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/ice211/Leetcode-Solutions/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ice211/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ice211/Leetcode-Solutions/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/ice211/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/ice211/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/ice211/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/ice211/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ice211/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/ice211/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/ice211/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 ## Bracket Sequences
 |  |
