@@ -9,7 +9,7 @@ class Solution:
             else:
                 hMap[word[i]] = i
             
-        for key, val in hMap.items():
+        for key in hMap:
             if key.upper() in hMap and hMap[key.upper()] > hMap[key]:
                 count += 1
         
