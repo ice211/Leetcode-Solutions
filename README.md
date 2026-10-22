@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ice211/Leetcode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ice211/Leetcode-Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ice211/Leetcode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/ice211/Leetcode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ice211/Leetcode-Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/ice211/Leetcode-Solutions/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ice211/Leetcode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/ice211/Leetcode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Sorting
 |  |
 | ------- |
