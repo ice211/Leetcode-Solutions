@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/ice211/Leetcode-Solutions/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ice211/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ice211/Leetcode-Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2390-removing-stars-from-a-string](https://github.com/ice211/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/ice211/Leetcode-Solutions/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ice211/Leetcode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/ice211/Leetcode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/ice211/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/ice211/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/ice211/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
+| [2390-removing-stars-from-a-string](https://github.com/ice211/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Counting
 |  |
 | ------- |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ice211/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/ice211/Leetcode-Solutions/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ice211/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2390-removing-stars-from-a-string](https://github.com/ice211/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
