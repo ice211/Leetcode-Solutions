@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/ice211/Leetcode-Solutions/tree/master/0766-toeplitz-matrix) |
 | [0853-car-fleet](https://github.com/ice211/Leetcode-Solutions/tree/master/0853-car-fleet) |
 | [0867-transpose-matrix](https://github.com/ice211/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
+| [0946-validate-stack-sequences](https://github.com/ice211/Leetcode-Solutions/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/ice211/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1572-matrix-diagonal-sum](https://github.com/ice211/Leetcode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/ice211/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/ice211/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/ice211/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/ice211/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
+| [0946-validate-stack-sequences](https://github.com/ice211/Leetcode-Solutions/tree/master/0946-validate-stack-sequences) |
 | [2390-removing-stars-from-a-string](https://github.com/ice211/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Counting
 |  |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/ice211/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0853-car-fleet](https://github.com/ice211/Leetcode-Solutions/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/ice211/Leetcode-Solutions/tree/master/0901-online-stock-span) |
+| [0946-validate-stack-sequences](https://github.com/ice211/Leetcode-Solutions/tree/master/0946-validate-stack-sequences) |
 | [1021-remove-outermost-parentheses](https://github.com/ice211/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ice211/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/ice211/Leetcode-Solutions/tree/master/1544-make-the-string-great) |
