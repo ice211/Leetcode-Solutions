@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/ice211/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1572-matrix-diagonal-sum](https://github.com/ice211/Leetcode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/ice211/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/ice211/Leetcode-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Hash Table
 |  |
 | ------- |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ice211/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/ice211/Leetcode-Solutions/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ice211/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/ice211/Leetcode-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2390-removing-stars-from-a-string](https://github.com/ice211/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/ice211/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/ice211/Leetcode-Solutions/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/ice211/Leetcode-Solutions/tree/master/0901-online-stock-span) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/ice211/Leetcode-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Bracket Sequences
 |  |
 | ------- |
