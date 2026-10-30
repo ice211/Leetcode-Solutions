@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/ice211/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/ice211/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0278-first-bad-version](https://github.com/ice211/Leetcode-Solutions/tree/master/0278-first-bad-version) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ice211/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Data Stream
 |  |
@@ -216,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/ice211/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/ice211/Leetcode-Solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
